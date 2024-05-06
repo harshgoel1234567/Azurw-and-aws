@@ -1,0 +1,19 @@
+step1  iam use karke dissrent user banaya(identity and acces management)
+iam vs normal account ()
+
+step2   Vpc banaya 
+step3   Public Private Subnet create kare (separate kaise kiye)
+
+Step4   Create A Virtual machine
+step5  type EC2
+step6  click on launch nstance
+step 7 create instance
+step 8  create RDs
+step 9  Connect Databse
+step 10 database endpoint connection with my code
+
+step 11 s3 bucket
+step 12 create bucket
+
+
+ 
